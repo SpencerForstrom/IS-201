@@ -1,0 +1,67 @@
+body {
+    background-image: url('../From Scratch Final/assets/Greek Background.jpg');
+    background-color: rgba(255,255,255,0.4);
+    background-blend-mode: lighten;
+}
+
+.content{
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    -webkit-text-stroke: 2px rgb(135, 90, 11); /* width and color */
+    font-size: 35px;
+    color: rgb(254, 252, 252);}
+
+
+.greek{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 35px;
+    color:  rgb(135, 90, 11);
+    font-style: italic;
+    font-weight: 100;
+}
+
+.numbered{
+text-align: left;
+margin: auto;
+width: auto;
+font-size: 25px;
+color: rgb(0, 0, 0);
+font-style: italic;
+}
+
+
+.notable{
+text-align: left;
+margin: auto;
+width: auto;
+font-size: 20px;
+color: rgb(0, 0, 0);
+font-style: italic;
+}
+
+.unaligned{
+text-align: left;
+margin: auto;
+width: auto;
+font-size: 15px;
+color: rgb(0, 0, 0);
+font-style: italic;
+}
+
+.anchor{
+text-align: center;
+margin: auto;
+width: auto;
+font-size: 30px;
+color: rgb(218, 145, 11);
+font-style: italic;
+}
+
+.tableau{
+display:block;
+margin-left:auto;
+margin-right: auto;
+}
