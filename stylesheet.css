@@ -1,6 +1,7 @@
 body {
     background-image: url('../From Scratch Final/assets/Greek Background.jpg');
     background-color: rgba(255,255,255,0.4);
+    background-size: auto;
     background-blend-mode: lighten;
 }
 
